@@ -1,0 +1,58 @@
+{
+  "name": "Demo",
+  "preferences": "",
+  "pets": [
+    {
+      "name": "Mochi",
+      "species": "dog",
+      "tasks": [
+        {
+          "title": "Long walk",
+          "time": "08:00",
+          "due_date": "2026-11-18",
+          "duration_minutes": 25,
+          "priority": "high",
+          "frequency": "once",
+          "completed": false,
+          "task_id": "long-walk"
+        },
+        {
+          "title": "Refill water",
+          "time": "08:20",
+          "due_date": "2026-11-18",
+          "duration_minutes": 5,
+          "priority": "high",
+          "frequency": "once",
+          "completed": false,
+          "task_id": "refill-water"
+        }
+      ]
+    },
+    {
+      "name": "Luna",
+      "species": "cat",
+      "tasks": [
+        {
+          "title": "Breakfast",
+          "time": "08:10",
+          "due_date": "2026-11-18",
+          "duration_minutes": 10,
+          "priority": "high",
+          "frequency": "once",
+          "completed": false,
+          "task_id": "breakfast"
+        },
+        {
+          "title": "Brush coat",
+          "time": "08:25",
+          "due_date": "2026-11-18",
+          "duration_minutes": 10,
+          "priority": "medium",
+          "frequency": "once",
+          "completed": false,
+          "task_id": "brush-coat"
+        }
+      ]
+    }
+  ]
+}
